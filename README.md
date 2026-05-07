@@ -116,12 +116,12 @@ const junior = {
 </h2>
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=EniJunioor&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0039c8&icon_color=aef917&text_color=ffffff&border_radius=10"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EniJunioor&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0039c8&text_color=ffffff&layout=compact&border_radius=10"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=EniJunioor&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0039c8&icon_color=aef917&text_color=ffffff&border_radius=10&cache_seconds=86400"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EniJunioor&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0039c8&text_color=ffffff&layout=compact&border_radius=10&cache_seconds=86400&langs_count=8"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EniJunioor&theme=tokyonight&hide_border=true&background=0d1117&stroke=0039c8&ring=aef917&fire=aef917&currStreakLabel=ffffff&border_radius=10" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=EniJunioor&theme=tokyonight&hide_border=true&background=0d1117&stroke=0039c8&ring=aef917&fire=aef917&currStreakLabel=ffffff&border_radius=10" alt="GitHub Streak"/>
 </div>
 
 ---
